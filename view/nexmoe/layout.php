@@ -4,19 +4,19 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e(config('site_name').' - '.$title);?></title>
-	<link rel="shortcut icon" href="//download.99couple.top/theme/favicon.ico">
+	<link rel="shortcut icon" href="//jiaosir.gearhostpreview.com/theme/favicon.ico">
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
-	<link rel="stylesheet" href="//download.99couple.top/theme/style.css">
+	<link rel="stylesheet" href="//jiaosir.gearhostpreview.com/theme/style.css">
 	<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script>
 </head>
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=81895257&s=100"/></a>
+			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=295372492&s=100"/></a>
 			<div class="navRight">
 				<ul class="navul">
-					<li class="navli"><a href="//99couple.top" target="_blank">博客</a></li>
-					<li class="navli"><a href="//download.99couple.top/?/login">登陆</a></li>
+					<li class="navli"><a href="//jiaosir.gearhostpreview.com" target="_blank">博客</a></li>
+					<li class="navli"><a href="//jiaosir.gearhostpreview.com/?/login">登陆</a></li>
 				</ul>
 				<div class="icon"></div>
 			</div>
